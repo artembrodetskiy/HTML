@@ -2,9 +2,37 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>mk1</title>
+    <title>supreme</title>
+    <style type="text/css">
+    .logo{
+    	padding-left: auto;
+    	padding-right: auto;
+    	height: 50px;
+    	padding-bottom: 0px;
+    }
+    .logo_box{
+    	text-align: center;
+    	background-color: #E52A2A;
+    	
+
+    }
+    .main_box{
+    	padding-right: 30px;
+    	padding-left: 30px;
+    }
+    .slogan{
+    	color: #FFFFFF;
+    	text-align: center;
+    	margin-top: 5px;
+    }
+    </style>
   </head>
   <body>
-  <h1>hello world</h1>
+ 	<div class="main_box">
+ 		<div class="logo_box">
+ 			<img src="img/Supreme+Logo.png" class="logo">
+ 			<h6 class="slogan">World famous</h6>
+ 		</div>
+ 	</div>
   </body>
 </html>
